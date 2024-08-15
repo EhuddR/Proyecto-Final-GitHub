@@ -10,11 +10,6 @@ Los primeros Juegos Olímpicos se celebraron en Olimpia, Grecia, y fueron un eve
 ### 2. [Historia Moderna de los Juegos Olímpicos](Historia-moderna.md)
 La historia moderna comienza con la restauración de los Juegos en 1896 en Atenas. Aquí se explora cómo los Juegos han crecido para convertirse en un evento global, sus momentos más memorables, y cómo han sido influenciados por los contextos políticos y sociales de cada época.
 
-## Recursos Adicionales
-
-- **Imágenes:** Incluye representaciones visuales de artefactos y eventos clave de la historia de los Juegos Olímpicos.
-- **Videos:** Enlaces a videos educativos que cubren tanto la historia antigua como la moderna de los Juegos Olímpicos.
-
 ## Cómo Contribuir
 
 Si tienes información adicional o correcciones sobre la historia de los Juegos Olímpicos, no dudes en contribuir. Puedes enviar un pull request o abrir un issue en este repositorio.
