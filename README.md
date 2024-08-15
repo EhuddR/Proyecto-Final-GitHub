@@ -10,5 +10,4 @@ Este repositorio contiene información detallada sobre los Juegos Olímpicos, in
 
 ## Recursos Multimedia
 
-- [Galería de Imágenes](Recursos/imagenes)
-- [Videos Históricos](Recursos/videos)
+- [Galería de Imágenes](Recursos/imágenes)

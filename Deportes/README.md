@@ -8,3 +8,5 @@ En esta sección, encontrarás información sobre los diferentes deportes que se
 - [Natación](Natación.md)
 
 Cada deporte tiene su propia historia y características que lo hacen único dentro de los Juegos Olímpicos.
+
+[Volver al inicio](../README.md)
