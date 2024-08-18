@@ -5,10 +5,10 @@ Se abarca la mayoría de deportes que componen los juegos olímpicos.
 
 ## Contenido
 
-- [Historia de los Juegos Olímpicos](Historia/README.md)
-- [Deportes Olímpicos](Deportes/README.md)
-- [Medallero Histórico](Tablas/Medallero.md)
+- [Historia de los Juegos Olímpicos](data/Historia/README.md)
+- [Deportes Olímpicos](data/Deportes/README.md)
+- [Medallero Histórico](data/Tablas/Medallero.md)
 
 ## Recursos Multimedia
 
-- [Galería de Imágenes](Recursos/imágenes)
+- [Galería de Imágenes](data/Recursos/imágenes)
