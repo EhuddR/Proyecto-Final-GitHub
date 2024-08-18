@@ -9,4 +9,4 @@ En esta sección, encontrarás información sobre los diferentes deportes que se
 
 Cada deporte tiene su propia historia y características que lo hacen único dentro de los Juegos Olímpicos.
 
-[Volver al inicio](/Proyecto-Final-GitHub/README.md)
+[Volver al inicio](../../README.md)
