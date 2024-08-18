@@ -10,4 +10,4 @@ Aquí se muestra una tabla con el medallero histórico de los tres países con m
 
 ![Imagen de una medalla olímpica](../Recursos/imágenes/medalla-olimpica.jpg)
 
-[Regresar al inicio](../README.md)
+[Regresar al inicio](/Proyecto-Final-GitHub/README.md)
