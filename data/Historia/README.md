@@ -14,4 +14,4 @@ La historia moderna comienza con la restauración de los Juegos en 1896 en Atena
 
 Si tienes información adicional o correcciones sobre la historia de los Juegos Olímpicos, no dudes en contribuir. Puedes enviar un pull request o abrir un issue en este repositorio.
 
-[Volver al Inicio](/Proyecto-Final-GitHub/README.md)
+[Volver al Inicio](../README.md) test
