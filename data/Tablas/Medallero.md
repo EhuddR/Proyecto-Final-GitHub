@@ -9,3 +9,5 @@ Aquí se muestra una tabla con el medallero histórico de los tres países con m
 | Alemania       | 428 | 444   | 474    | 1346  |
 
 ![Imagen de una medalla olímpica](../Recursos/imágenes/medalla-olimpica.jpg)
+
+[Regresar al inicio](../../README.md)
